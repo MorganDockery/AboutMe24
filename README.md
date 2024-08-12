@@ -54,5 +54,5 @@ Prior Projects
 |:-| :----: | ---:|
 |Onomatopoeia| The naming of a thing or action by imitation of natural sounds. | A very vivid noise.
 |Pestilence| A fatal epidemic disease, especially bubonic plague. | Something terrible.
-|Resilient| Able to withstand or recover quickly from difficult conditions. | 
-|Perchance| By chance. |
+|Resilient| Able to withstand or recover quickly from difficult conditions. | Something that refuses to give.
+|Perchance| By chance. | Potentially.
