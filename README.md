@@ -41,5 +41,18 @@ Prior Projects
 
 ## Persons of Interest
 [Jim Carrey][1]<br>
+<kbd>
+<img src="img/Jim.jpg" height="100px" width="100px"></kbd><br><br>
 [Buster Posey][2]<br>
+<kbd>
+<img src="img/Posey.jpg" height="100px" width="100px"></kbd><br><br>
 [MatPat][3]<br>
+<kbd>
+<img src="img/Mat.jpg" height="100px" width="100px"></kbd><br><br>
+
+| Terms | Definitions | My Meaning
+|:-| :----: | ---:|
+|Onomatopoeia| The naming of a thing or action by imitation of natural sounds. | A very vivid noise.
+|Pestilence| A fatal epidemic disease, especially bubonic plague. | Something terrible.
+|Resilient| Able to withstand or recover quickly from difficult conditions. | 
+|Perchance| By chance. |
